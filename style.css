@@ -7,4 +7,12 @@ Version: 1.0
 License: GNU General Public License v2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 */
+/* line 11, ../../../../../Users/driftworks-creative/Desktop/htdocs/project/theme-1/wp-content/themes/smallbus-theme-1/scss/style.scss */
+body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
 
+/*# sourceMappingURL=style.css.map */
